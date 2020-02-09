@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherPath" value="$USER_HOME$/projects/tsttravel/sbt-launch-0.13.6.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home" />
+    <option name="maximumHeapSize" value="4096" />
+  </component>
+</project>

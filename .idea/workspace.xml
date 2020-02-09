@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49861779-a18f-4430-ab50-df29951f77c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XV3Iiza9N8YY1kK59W9szhOFqK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="soap-parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="log-parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soap-parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.soap-parser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../admin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../air" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../air-provider" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../baggage-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../booking-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../car" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../common-domain" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../common-domain-base" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../common-domain-query" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../common-persistence-mongo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../common-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../common-utilities" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../common-web" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../core-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../location-autocomplete" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../trip" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../trip-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../tsttravel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../vacation" value="PREVIEW" />
+        <entry key="$USER_HOME$/tst/tsttravel" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49861779-a18f-4430-ab50-df29951f77c6" name="Default Changelist" comment="" />
+      <created>1581117356273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581117356273</updated>
+      <workItem from="1581117377356" duration="623000" />
+      <workItem from="1581118119031" duration="520000" />
+      <workItem from="1581118659925" duration="35144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1581180732139">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1581180732139" />
+    <state x="528" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581117989740">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="528" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581117989740" />
+    <state x="544" y="347" width="856" height="703" key="#xdebugger.evaluate" timestamp="1581218378034">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="544" y="347" width="856" height="703" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1581218378034" />
+    <state width="1680" height="438" key="DebuggerActiveHint" timestamp="1581182684492">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1680" height="438" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1581182684492" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1581218748377">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581218748377" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1581218748376">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581218748376" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1581218748375">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581218748375" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1581218748376">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581218748376" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1581218629604">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581218629604" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1581218629603">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581218629603" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1581218629602">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581218629602" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1581218629603">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581218629603" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1581118909815">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581118909815" />
+    <state width="904" height="559" key="XDebugger.FullValuePopup" timestamp="1581218348140">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="904" height="559" key="XDebugger.FullValuePopup/0.0.1680.1050@0.0.1680.1050" timestamp="1581218348140" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1581190904657">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581190904657" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/soap-parser.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/log_parser$parser.coverage" NAME="parser Coverage Results" MODIFIED="1581218748370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
